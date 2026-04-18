@@ -163,5 +163,5 @@ from retail_sales
 group by category
 
 
----ans10
+
 
